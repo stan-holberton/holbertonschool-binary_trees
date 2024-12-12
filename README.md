@@ -26,3 +26,4 @@ Ce projet explore les concepts fondamentaux des arbres binaires, y compris leur 
 
 ## **Compilation**
 - gcc -Wall -Werror -Wextra -pedantic -std=gnu89
+ 
